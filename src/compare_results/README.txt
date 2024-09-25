@@ -1,0 +1,1 @@
+Ket qua so sanh chi tiet duoc show tai day

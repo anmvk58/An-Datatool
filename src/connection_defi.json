@@ -1,0 +1,13 @@
+{
+  "EXAMPLE": {
+    "driver": "{Oracle in OraClient19Home1}",
+    "schema": "ExampleSchema",
+    "DB": "Database",
+    "server": "192.168.1.1",
+    "user": "username",
+    "password": "gAAAAABiumJI7Pifi9-O384hTE2-3uxyT1DIgNmye0AnP54PDhj0JyLhM91-2IRbUuWfrQ7FM2x0PXZoIcAD0L_a69vTxuZwVQ==",
+    "port": "1521",
+    "engine": "ORACLE",
+    "service_name": "example"
+  }
+}

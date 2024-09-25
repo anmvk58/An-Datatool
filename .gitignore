@@ -1,0 +1,9 @@
+src/compare_results/*.csv
+
+src/**/__pycache__/
+
+.idea/*
+
+src/extract_folder/**/*.parquet
+
+src/connection_defi2.json
